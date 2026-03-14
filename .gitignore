@@ -1,0 +1,13 @@
+# Security: environment and secret files
+.env
+.env.*
+.env.txt
+*.env
+*.env.*
+**/.env
+**/.env.*
+**/*.env
+
+# Allow safe templates
+!**/.env.example
+!**/.env.sample
