@@ -1,0 +1,6 @@
+{
+  "rootDirectory": "to-do_list",
+  "buildCommand": "npm run build",
+  "outputDirectory": "to-do_list/dist",
+  "installCommand": "npm install"
+}
